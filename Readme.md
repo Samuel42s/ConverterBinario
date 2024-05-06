@@ -1,0 +1,1 @@
+Programa simples que converte números binarios para decimal e vice-versa
